@@ -1,0 +1,6 @@
+{
+  "name": "Netflix Series Tracker",
+  "description": "Gestiona tus listas de seguimiento de Netflix, organiza temporadas y episodios, y recibe notificaciones en tiempo real de nuevos estrenos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
